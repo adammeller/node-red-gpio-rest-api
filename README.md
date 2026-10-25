@@ -32,3 +32,9 @@ Testing environment.
 - Node-RED
 - node-red-node-pi-gpio
 - node-red-node-pi-i2c
+
+## Repository QR Code
+
+Scan the QR code to open the GitHub repository directly:
+
+![GitHub Repository QR](https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://github.com/adammeller/node-red-gpio-rest-api)
